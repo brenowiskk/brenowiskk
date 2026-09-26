@@ -11,5 +11,5 @@ HTML • CSS • JavaScript • Python • Git • GitHub • Linux • MySQL �
 
 ### Contato
 - GitHub: [@brenowiskk](https://github.com/brenowiskk)
-- LinkedIn: [Breno Santos](www.linkedin.com/in/brenosantosoliveira)
+- LinkedIn: [Breno Oliveira](www.linkedin.com/in/brenosantosoliveira)
 - Portfólio: [Meu portfólio](...)
